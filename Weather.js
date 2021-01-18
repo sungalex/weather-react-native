@@ -32,6 +32,8 @@ const weatherOptions = {
   Atmosphere: {
     iconName: "weather-hail",
     gradient: ["#89F7FE", "#66A6FF"],
+    title: "Hail",
+    subtitle: "Hail down from the sky",
   },
   Clear: {
     iconName: "weather-sunny",
